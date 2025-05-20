@@ -9,9 +9,7 @@ while(factor * factor <= number) {
         number = number / factor;
 
     } else{factor ++};
-    console.log(factor)
-running = false;
-
+   
 }
 
 
